@@ -1,0 +1,21 @@
+body{
+    background-color: black;
+}
+#primeiro_paragrafo{
+    color: gold;
+    font-size: larger;
+}
+#segundo_paragrafo{
+    background-color: gold;
+    color: black;
+    font-size: larger;
+    border: 2px solid goldenrod;
+    border-radius: 10px;
+}
+.diferente{
+    background-color: goldenrod;
+    color: aliceblue;
+    font-size: xx-large;
+    border: 3px solid darkgoldenrod;
+    border-radius: 20px;
+}
